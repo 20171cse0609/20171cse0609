@@ -2,7 +2,7 @@
 struct student
 {
 char name[50];
-int age;
+
 float marks;
 }s1;
 union student1
