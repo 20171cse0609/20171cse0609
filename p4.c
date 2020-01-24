@@ -18,7 +18,8 @@ for(i=m;i<=n;i++)
 res=prime(i);
  if(res==1)
     printf("%d\n",i);
-}print("sandeep");
+}printf("sandeep gowda");
+
 }
 
 
