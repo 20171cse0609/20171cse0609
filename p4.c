@@ -19,6 +19,7 @@ res=prime(i);
  if(res==1)
     printf("%d\n",i);
 }printf("sandeep gowda");
+
 }
 
 
